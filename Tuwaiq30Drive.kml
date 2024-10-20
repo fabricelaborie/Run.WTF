@@ -3,5 +3,146 @@
 <Document>
 	<name>Tuwaiq30Drive</name>
 	<description>Tuwaiq30Drive</description>
+	<gx:CascadingStyle kml:id="__managed_style_053234202D33DE449E76">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/none_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C60653E0F33DE449E74">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/none_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E89A4171833DE449E74">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C60653E0F33DE449E74</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_053234202D33DE449E76</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0B585736B833DE436C35">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0BD44D539D33DE436C32">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E638DBA4133DE436C31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0BD44D539D33DE436C32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0B585736B833DE436C35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="06B03D325933DE444A05">
+		<name>Untitled folder</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0E638DBA4133DE436C31</styleUrl>
+	</Folder>
+	<Folder id="0E39BD0BBD33DE44B0C5">
+		<name>Tuwaiq30Drive</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0E638DBA4133DE436C31</styleUrl>
+		<Placemark id="0206FBCDEA33DE436C22">
+			<name>Tuwaiq30Drive</name>
+			<LookAt>
+				<longitude>46.18631421144388</longitude>
+				<latitude>24.65927737710962</latitude>
+				<altitude>660.7144662717334</altitude>
+				<heading>0.1343400148802319</heading>
+				<tilt>44.10868955615366</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>8158.069964731114</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0E89A4171833DE449E74</styleUrl>
+			<LineString>
+				<coordinates>
+					46.1871492140006,24.66652729121568,0 46.18670113541285,24.66589662249106,0 46.18637682297824,24.66598201721095,0 46.18582259706925,24.66614778142769,0 46.18545382910565,24.66648013822745,0 46.18511977110074,24.6668480408655,0 46.18475981865891,24.66694127662507,0 46.18392601717022,24.66850750961844,0 46.1831270088646,24.66944952152205,0 46.18209138160022,24.67135040620671,0 46.18149068907989,24.67233325859483,0 46.18082479920589,24.67310522086534,0 46.1803248982562,24.67401909155688,0 46.17983905110513,24.6750891188446,0 46.17972353531677,24.67617380124798,0 46.17916336248569,24.67950412038156,0 46.1789722553657,24.68219902202807,0 46.17757067205819,24.68492173780171,0 46.1767374970561,24.68627609848335,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
 </Document>
 </kml>
