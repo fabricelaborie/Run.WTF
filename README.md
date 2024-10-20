@@ -68,12 +68,16 @@ If you are also training and would like some company, please feel free to tag al
 *  You **must** know how to use your GPS Tracker
 *  You **must** have uploaded the GPS Course ( .kml or .gpx) on your GPS tracker BEFORE reaching the site (there is **NO** signal on site) and you **must** check that it loads properly.
 
-
+<details>
+<summary>Future sessions</summary>
+  
 ## Saturday 09 Nov 2024
 TBA
 
 ## Saturday 02 Nov 2024
 TBA
+
+</details>  
 
 ## Saturday 26 October 2024
 
@@ -89,6 +93,9 @@ TBA
    - It might be suitable for athletes training for the 10/20.... but self-navigation back to car is needed 
 - GPX track to load: track to load: [Tuwaiq30.gpx](/Tuwaiq30.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP
 
+<details>
+<summary>PAST Sessions </summary>
+  
 ## Saturday 19 October 2024
 
 - Distance: ~20km
@@ -101,7 +108,7 @@ TBA
    - Something like [https://www.strava.com/activities/9946679813](https://www.strava.com/activities/9946679813)  : (1x "up and down" the big Al Manjour Hill (8km) + optional 12km fun loop around in the area )
    - It might be suitable for athletes training for the 10... (Though I'd suggest they drive 3 more km to have a headstart so that we can reach the top at the same time and start going down together ) but self-navigation back to car is needed 
 - GPX track to load: [Al_Manjour_trail_20.gpx](/Al_Manjour_trail_20.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP  
-  
+</details>  
 
 
 # Contact:
