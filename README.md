@@ -68,6 +68,27 @@ If you are also training and would like some company, please feel free to tag al
 *  You **must** know how to use your GPS Tracker
 *  You **must** have uploaded the GPS Course ( .kml or .gpx) on your GPS tracker BEFORE reaching the site (there is **NO** signal on site) and you **must** check that it loads properly.
 
+
+## Saturday 09 Nov 2024
+TBA
+
+## Saturday 02 Nov 2024
+TBA
+
+## Saturday 26 October 2024
+
+- Distance: ~30km
+- Duration: ~4 1/2hours
+- Meeting time: 05:15
+- Meeting point: https://maps.app.goo.gl/nn1qSbD9Ex5NJSRy5 by the Mosque 
+- Leave from meeting point 05:20 ( drive 2.7km off road . Sedan drivers can leave the car at the mosque . run to the start or or hitch a ride with someone following this trail: [Tuwaiq30Drive.kml](/Tuwaiq30drive.kml) ) 
+- Start Point: https://maps.app.goo.gl/eEtB7wfE4hCdj5x57
+- Start Time: 05:35
+- what to expect:
+   - Something like [https://www.strava.com/activities/10029551666](https://www.strava.com/activities/10029551666)  TBC ( skip the big incline . 30 km on the trail ) 
+   - It might be suitable for athletes training for the 10/20.... but self-navigation back to car is needed 
+- GPX track to load: track to load: [Tuwaiq30.gpx](/Tuwaiq30.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP
+
 ## Saturday 19 October 2024
 
 - Distance: ~20km
@@ -81,25 +102,6 @@ If you are also training and would like some company, please feel free to tag al
    - It might be suitable for athletes training for the 10... (Though I'd suggest they drive 3 more km to have a headstart so that we can reach the top at the same time and start going down together ) but self-navigation back to car is needed 
 - GPX track to load: [Al_Manjour_trail_20.gpx](/Al_Manjour_trail_20.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP  
   
-## Saturday 26 October 2024
-
-- Distance: ~30km
-- Duration: ~4 1/2hours
-- Meeting time: 05:15
-- Meeting point: https://maps.app.goo.gl/4YA9wW96NUqqTRY89
-- Leave from meeting point 05:20
-- Start Point: https://maps.app.goo.gl/eEtB7wfE4hCdj5x57
-- Start Time: 05:35
-- what to expect:
-   - Something like [https://www.strava.com/activities/9946679813](https://www.strava.com/activities/10029551666)  TBC ( skip the big incline . 30 km on the trail ) 
-   - It might be suitable for athletes training for the 10/20.... but self-navigation back to car is needed 
-- GPX track to load: TBA
-
-## Saturday 02 Nov 2024
-TBA
-
-## Saturday 09 Nov 2024
-TBA
 
 
 # Contact:
