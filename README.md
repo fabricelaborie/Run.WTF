@@ -81,7 +81,7 @@ TBA
 - Duration: ~4 1/2hours
 - Meeting time: 05:15
 - Meeting point: https://maps.app.goo.gl/nn1qSbD9Ex5NJSRy5 by the Mosque 
-- Leave from meeting point 05:20 ( drive 2.7km off road . Sedan drivers can leave the car at the mosque . run to the start or or hitch a ride with someone following this trail: [Tuwaiq30Drive.kml](/Tuwaiq30drive.kml) ) 
+- Leave from meeting point 05:20 ( drive 2.7km off road . Sedan drivers can leave the car at the mosque . run to the start or or hitch a ride with someone following this trail: [Tuwaiq30Drive.kml](/Tuwaiq30Drive.kml) ) 
 - Start Point: https://maps.app.goo.gl/eEtB7wfE4hCdj5x57
 - Start Time: 05:35
 - what to expect:
