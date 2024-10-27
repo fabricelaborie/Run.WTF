@@ -73,7 +73,18 @@ If you are also training and would like some company, please feel free to tag al
 TBA
 
 ## Saturday 02 Nov 2024
-TBA
+
+- Distance: 16km
+- Duration: ~3 hours
+- Meeting time: 05:15
+- Meeting point: https://maps.app.goo.gl/RPn1KevMoHxjQ7Qs8 by Mosque Ammaria Hills
+- Leave from meeting point 05:20
+- Start Point:  [https://maps.app.goo.gl/eEtB7wfE4hCdj5x57](SND93) 
+- Start Time: 05:35
+- what to expect:
+   - Something like https://www.strava.com/activities/12577085842:
+   - We'll run up and down the big incline 2, 3, or 4 times... Each lap is 3.5km / 400m incline.
+- GPX track to load: track to load: [AlManjourLoops.gpx](/AlManjourLoops.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP
 
 ## Saturday 26 October 2024
 
