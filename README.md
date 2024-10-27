@@ -83,7 +83,7 @@ TBA
 - Start Time: 05:35
 - what to expect:
    - Something like https://www.strava.com/activities/12577085842:
-   - We'll run up and down the big incline 2, 3, or 4 times... Each lap is 3.5km / 400m incline.
+   - Starting from the TOP, we'll run up and down the big incline 2, 3, or 4 times... Each lap is 3.5km / 400m incline.
 - GPX track to load: track to load: [AlManjourLoops.gpx](/AlManjourLoops.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP
 
 ## Saturday 26 October 2024
