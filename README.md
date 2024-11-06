@@ -78,7 +78,7 @@ If you are also training and would like some company, please feel free to tag al
 - what to expect:
    - an easy loop around the Diplomatic Quarter.
    - distances 10 to 19 possible ... 
-- GPX track to load: track to load: [AlManjourLoops.gpx](/AlManjourLoops.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP
+- GPX track to load: track to load: [DQ16.gpx](/DQ16.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP
 
 ## Saturday 02 Nov 2024
 
