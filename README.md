@@ -70,7 +70,15 @@ If you are also training and would like some company, please feel free to tag al
 
   
 ## Saturday 09 Nov 2024
-TBA
+- Distance: 16km
+- Duration: ~1.5 hours
+- Meeting time: 05:40
+- Meeting / Starting Point:  https://maps.app.goo.gl/cvmHfeZCyMPC6Xza6 Joe and the Juice - DQ
+- Start Time: 05:45
+- what to expect:
+   - an easy loop around the Diplomatic Quarter.
+   - distances 10 to 19 possible ... 
+- GPX track to load: track to load: [AlManjourLoops.gpx](/AlManjourLoops.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP
 
 ## Saturday 02 Nov 2024
 
@@ -111,7 +119,7 @@ TBA
 - what to expect:
    - Something like [https://www.strava.com/activities/9946679813](https://www.strava.com/activities/9946679813)  : (1x "up and down" the big Al Manjour Hill (8km) + optional 12km fun loop around in the area )
    - It might be suitable for athletes training for the 10... (Though I'd suggest they drive 3 more km to have a headstart so that we can reach the top at the same time and start going down together ) but self-navigation back to car is needed 
-- GPX track to load: [Al_Manjour_trail_20.gpx](/Al_Manjour_trail_20.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP  
+- GPX track to load: [DQ16.gpx](/DQ16.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP  
 
 
 
