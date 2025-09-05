@@ -68,6 +68,20 @@ If you are also training and would like some company, please feel free to tag al
 *  You **must** know how to use your GPS Tracker
 *  You **must** have uploaded the GPS Course ( .kml or .gpx) on your GPS tracker BEFORE reaching the site (there is **NO** signal on site) and you **must** check that it loads properly.
 
+ 
+## Saturday 6 September 2025
+
+- Distance: 15 or 20km
+- Duration: 2hrs or ~3 1/2hours
+- Meeting time: 05:20
+- Meeting point: https://maps.app.goo.gl/4YA9wW96NUqqTRY89
+- Start point: same as meeting point
+- Start Time: 05:30 
+- what to expect:
+   - Something like [https://www.strava.com/activities/9946679813](https://www.strava.com/activities/9946679813) : 15km fun loop around in the area + optional (1x "up and down" the big Al Manjour Hill (5km)  )
+   - It might be suitable for athletes training for the 10...  
+- GPX track to load:  [Al_Manjour_trail_20.gpx](/AlManjour_trail_20.gpx) . Don't forget to upload it to your GPS Watch ( ex Garmin  via Garmin Connect ) and/or to your  [**https://www.gaiagps.com/**](https://www.gaiagps.com/) APP  
+
   
 ## Saturday 09 Nov 2024
 - Distance: 16km
